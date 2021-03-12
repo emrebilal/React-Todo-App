@@ -3,7 +3,7 @@ This is a sample react todo app. This project was bootstrapped with [Create Reac
 #
 Clone the repository
 ```bash
-$ git clone https://github.com/emrebilal/react-todo-app.git
+$ git clone https://github.com/emrebilal/React-Todo-App.git
 ```
 Install dependencies
 ```bash
