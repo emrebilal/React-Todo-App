@@ -3,7 +3,7 @@ This is a sample react todo app. This project was bootstrapped with [Create Reac
 
 ![Ekran görüntüsü 2021-03-12 225836](https://user-images.githubusercontent.com/46905124/110992696-554f0e00-8387-11eb-981b-4627210057de.png)
 #
-Clone the repository
+Clone the repository.
 ```bash
 $ git clone https://github.com/emrebilal/React-Todo-App.git
 ```
@@ -11,7 +11,7 @@ Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/e
 ```bash
 $ npm install # or yarn
 ```
-Run it
+Run it.
 ```bash
 $ npm start # or yarn start
 ```
