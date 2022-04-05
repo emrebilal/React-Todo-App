@@ -1,6 +1,6 @@
 # React Todo App
 This is a sample react todo app. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
-**Demo:** [Link](https://emrebilal-react-todo-list.netlify.app)
+**Demo:** [Link](https://emrebilal.github.io/React-Todo-App/)
 
 ![Ekran görüntüsü 2021-03-12 225836](https://user-images.githubusercontent.com/46905124/110992696-554f0e00-8387-11eb-981b-4627210057de.png)
 #
